@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://lindgr3n-lhrlkl.eu-west-1.xata.sh/db/my-app",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
